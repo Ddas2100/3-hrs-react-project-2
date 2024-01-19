@@ -1,0 +1,55 @@
+.inventory-form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .error-message {
+    color: red;
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  label {
+    margin-right: 10px;
+  }
+  
+  .input-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  input {
+    padding: 8px;
+    margin-right: 10px;
+    box-sizing: border-box;
+  }
+  
+  .small-input {
+    width: 60px;
+  }
+  
+  .button-container {
+    margin-top: 10px;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: rgb(5, 4, 4);
+    padding: 10px 15px;
+    border: #0f220f;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  button:hover {
+    background-color: #234e25;
+    color: white;
+  }
+  

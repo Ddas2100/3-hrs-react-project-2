@@ -1,0 +1,7 @@
+.card {
+    padding: 4rem;
+    box-shadow: 0 2px 8px rgba(159, 159, 207, 0.5);
+    border-radius: 14px;
+    background-color: rgba(231, 153, 153, 0.9);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
